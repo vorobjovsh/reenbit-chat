@@ -59,12 +59,11 @@ export const App = () => {
       afterMess[activeUser[0].index].content[indexTimer].isVisible = true;
 
       const fromIndex = activeUser[0].index;
-      console.log(fromIndex)
-      const item = afterMess.splice(fromIndex, 1)[0]; 
-      afterMess.splice(0, 0, item); 
-     
+      const item = afterMess.splice(fromIndex, 1)[0];
+      afterMess.splice(0, 0, item);
+
       setUserChat(afterMess);
-      
+
       localStorage.setItem('chatsData', JSON.stringify(afterMess));
     }, 10000);
 

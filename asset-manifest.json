@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reenbit-chat/static/css/main.de11126e.css",
-    "main.js": "/reenbit-chat/static/js/main.e62df362.js",
+    "main.js": "/reenbit-chat/static/js/main.20e9d9a9.js",
     "index.html": "/reenbit-chat/index.html",
     "main.de11126e.css.map": "/reenbit-chat/static/css/main.de11126e.css.map",
-    "main.e62df362.js.map": "/reenbit-chat/static/js/main.e62df362.js.map"
+    "main.20e9d9a9.js.map": "/reenbit-chat/static/js/main.20e9d9a9.js.map"
   },
   "entrypoints": [
     "static/css/main.de11126e.css",
-    "static/js/main.e62df362.js"
+    "static/js/main.20e9d9a9.js"
   ]
 }

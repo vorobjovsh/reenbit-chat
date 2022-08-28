@@ -1,0 +1,47 @@
+.content {
+  border-bottom: 1px solid #d7d7d7;
+}
+
+.contentItem {
+  padding: 20px;
+}
+
+.userMessage {
+  display: flex;
+}
+
+.avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.userText {
+
+}
+
+.message {
+  margin: 0;
+  padding: 20px 30px;
+  background-color: #3c4252;
+  color: #fff;
+  border-radius: 45px;
+}
+
+.date {
+  padding-left: 15px;
+}
+
+.currentUserMessage {
+  text-align: right;
+  padding-left: 200px;
+}
+
+.messageCurrentUser {
+  margin: 0;
+  padding: 20px 30px;
+  background-color: #e0e0e0;
+  border-radius: 45px;
+  text-align: left;
+}

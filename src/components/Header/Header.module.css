@@ -1,0 +1,36 @@
+.block {
+  padding: 20px;
+  background-color: #f1eeee;
+  border-bottom: 1px solid #d7d7d7;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.blockImg {
+  position: relative;
+  margin-right: 20px;
+}
+
+.avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.checkOnline {
+  position: absolute;
+  left: 55px;
+  top: 50px;
+  width: 25px;
+  height: 25px;
+}
+
+.name {
+  font-weight: 600;
+  font-size: 32px;
+  margin: 0;
+}
